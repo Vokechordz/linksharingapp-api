@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    display: grid;
+    place-content: center;
+    color: white;
+    background-color: rgb(10, 10, 20);
+}
